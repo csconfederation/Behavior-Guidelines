@@ -34,7 +34,7 @@
 | 22 | Posting spam links | Medium Timeout | Extended Timeout | Severe Timeout | Season Timeout | Ban |
 | 23 | Discussing politics, religion, or other serious real-life topics in bad faith | Medium Timeout | Extended Timeout | Severe Timeout | Season Timeout | Ban |
 | 24 | Harassment | Medium Timeout | Extended Timeout | Severe Timeout | Season Timeout | Ban |
-| 31 | Spoiling recent shows or movies (within 2 weeks of release) | Severe Timeout | Ban |
+| 31 | Spoiling recent shows or movies (within 2 weeks of release) | Standard Timeout | Long Timeout | Extended Timeout | Severe Timeout | Ban |
 
 ### Serious Offences
 
