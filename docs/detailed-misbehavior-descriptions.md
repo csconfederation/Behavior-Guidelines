@@ -47,7 +47,7 @@
 | 29 | Creating a troll discord account | Creating a discord account solely to cause trouble in the CSC discord, or any related discord, will result in a ban of the troll account and a strike for the creator. |
 | 30 | Timing misbehaviors to minimize punishments | Any revealed attempts to time potential misbehaviors in such a way as to minimize punishments, such as counting the days until a strike is removed then immediately getting another one. |
 | 32 | Collaborating in Committing Normal or Serious Misbehaviors | Any confirmed efforts to work together to commit misbehaviors. Strikes in this area are applied to all applicable members involved who have been shown to actively participate in preparing for the infraction(s). |
-| 37 | Sluts, racism and biogted speech | Use of highly offensive language, including but not limited to slurs, racism, deliberate misgendering, attacks against someones personal identity or other hateful and bigoted speech. |
+| 37 | Slurs, racism and biogted speech | Use of highly offensive language, including but not limited to slurs, racism, deliberate misgendering, attacks against someones personal identity or other hateful and bigoted speech. |
 | 38 | Serious (death/assault) threats | Any threat made that involves serious harm to another member, jokingly or not. |
 
 ### Other Offenses
