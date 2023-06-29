@@ -9,9 +9,9 @@
 | 3 | General misuse of channels | Any messages that divert from the intended topic of a channel, such as regular discussion in #ask-a-coach or #introductions. |
 | 4 | Baiting other community members | Creating unnecessary drama, manipulation of others, or being overly judgmental or critical of others, especially when done to generate a reaction from someone. Includes attacks or insults through in-game chat. |
 | 5 | Falsely/incorrectly reporting scores | Intentionally lying in a score report to either misrepresent the correct score or reporting the wrong winner will be warned under this rule. |
-| 6 | Pinging roles between 3am-10am EST | Self explanitory. |
+| 6 | Pinging roles between 3am-10am EST | Self explanatory. |
 | 7 | Unnecessary pings | Pinging small roles for no apparent reason. This can also apply to pinging individuals if they complain. |
-| 8 | Non-English text in chat | Self explanitory. |
+| 8 | Non-English text in chat | Self explanatory. |
 | 9 | Excessive pinging | Spam pinging an individual. |
 | 10 | Being generally disrespectful, rude or toxic to community members | This refers to harassment of other players, including, but not limited to: verbal insults, text insults, and repeated, overt sarcastic responses in both text or voice chat. This can include DMs brought to the attention of the moderators. It is primarily up to moderator discretion whether or not to punish for this. |
 | 48 | Suggestive Media | Posting any images, gifs, text, or videos that can be considered not safe for work (NSFW) but are not explicit or graphic. This is including but not limited to innuendos, suggestive content or sexual references (graphic or implied) |
@@ -26,7 +26,7 @@
 | 14 | General conduct detrimental to CSC | Any conduct that a new user would be turned away by seeing can be punished. This is a blanket rule for moderator discretion. |
 | 15 | Asking for specific punishments for others | Requesting, in public, that someone be muted for breaking a rule. Please use tickets for player reports. At Mod discretion, you may instead receive exactly what you asked for, applied to you, and additional strikes may be incurred. |
 | 16 | NSFW media | Posting any images, gifs, or videos that are considered not safe for work (NSFW) or other public locations due to nudity, sexual content, gore, extreme violence, or other aspects. Drastically or overtly explicit materials will instantly incur 3 strikes. |
-| 17 | Swearing directed at another member | Self explanitory. |
+| 17 | Swearing directed at another member | Self explanatory. |
 | 18 | False accusations of serious offence | Publicly accusing a member of harassment when no such thing has been done, for example, would warrant a mute under this rule. |
 | 19 | Public accusation of staff abuse | Publicly accusing a Mod of abuse for muting you, for example, would warrant a mute under this rule. This can also cover baseless accusations made in tickets. |
 | 20 | Encouraging drama or rule breaking, or promising to do so | Any discovered attempts to encourage or bait other members into committing offences, or statements confirming intent to do so. Continuing or reigniting hostile conversations, making false accusations, saying you will intentionally break rules, etc. may also fall under this rule. |
@@ -63,7 +63,7 @@
 | 42 | Breaking Discord TOS | Actions that go against Discord's TOS, found at https://discord.com/terms |
 | 43 | Cheating | Any use of programs or macros that give an unfair advantage to the user. |
 | 44 | Trolling with ill intent immediately after joining | Joining the server just to incite drama, protest a punishment for a friend, etc. |
-| 45 | Scamming or attempted scamming | Self explanitory. |
+| 45 | Scamming or attempted scamming | Self explanatory. |
 | 47 | Messaging automoderated terms | Messaging a banned word that is automatically deleted by automod. Resending deleted messages will result in a double strike. Any successful attempt to avoid automod with banned words will be treated as a 37. |
 | - | --------------- | ----------- |
 | 10M1 | Dodging a game | Intentionally dodging a game after ready check has popped. Multiple instances of accidental dodges will also lead to a strike. |
