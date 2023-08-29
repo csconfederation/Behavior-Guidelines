@@ -15,6 +15,7 @@
 | 9 | Excessive pinging | Verbal Warning | Short Timeout | Standard Timeout | Medium Timeout | Extended Timeout | Severe Timeout | Ban |
 | 10 | Being generally disrespectful, rude or toxic to community members | Verbal Warning | Short Timeout | Standard Timeout | Medium Timeout | Extended Timeout | Severe Timeout | Ban |
 | 48 | Suggestive Media | Verbal Warning | Short Timeout | Standard Timeout | Medium Timeout | Extended Timeout | Severe Timeout | Ban |
+| 49 | Mentioning or alluding to self-harm | Verbal Warning | Short Timeout | Standard Timeout | Medium Timeout | Extended Timeout | Severe Timeout | Ban |
 
 ### Normal Offenses
 
@@ -55,7 +56,7 @@
 | # | Name of Offence | Step 1 | Step 2 | Step 3 | Step 4 |
 | - | --------------- | ------ | ------ | ------ | ------ |
 | 34 | Bypassing, or attempting to bypass, punishments in bad faith | Triple the length of original punishment	|
-| 35 | Non-serious discussion in serious channels | Warning | Channel Ban |
+| 35 | Non-serious discussion in serious channels | Warning | Season Channel Ban | Channel Ban |
 | 36 | Leaving Discord mid-event | Removed from Event | CSC Event Ban |
 | 39 | Leaving Discord mid-season without reason | Season Timeout | Ban |
 | 40 | Pinging large roles without approval |  Removal of Role |
