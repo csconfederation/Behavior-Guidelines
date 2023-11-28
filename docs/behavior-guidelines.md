@@ -9,10 +9,8 @@
 | 3 | General misuse of channels | Verbal Warning | Short Timeout | Standard Timeout | Medium Timeout | Extended Timeout | Severe Timeout | Ban |
 | 4 | Baiting other community members | Verbal Warning | Short Timeout | Standard Timeout | Medium Timeout | Extended Timeout | Severe Timeout | Ban |
 | 5 | Falsely/incorrectly reporting scores | Verbal Warning | Short Timeout | Standard Timeout | Medium Timeout | Extended Timeout | Severe Timeout | Ban |
-| 6 | Pinging roles between 3am-10am EST | Verbal Warning | Short Timeout | Standard Timeout | Medium Timeout | Extended Timeout | Severe Timeout | Ban |
-| 7 | Unnecessary pings | Verbal Warning | Short Timeout | Standard Timeout | Medium Timeout | Extended Timeout | Severe Timeout | Ban |
+| 7 | Excessive or Unnecessary pings | Verbal Warning | Short Timeout | Standard Timeout | Medium Timeout | Extended Timeout | Severe Timeout | Ban |
 | 8 | Non-English text in chat | Verbal Warning | Short Timeout | Standard Timeout | Medium Timeout | Extended Timeout | Severe Timeout | Ban |
-| 9 | Excessive pinging | Verbal Warning | Short Timeout | Standard Timeout | Medium Timeout | Extended Timeout | Severe Timeout | Ban |
 | 10 | Being generally disrespectful, rude or toxic to community members | Verbal Warning | Short Timeout | Standard Timeout | Medium Timeout | Extended Timeout | Severe Timeout | Ban |
 | 48 | Suggestive Media | Verbal Warning | Short Timeout | Standard Timeout | Medium Timeout | Extended Timeout | Severe Timeout | Ban |
 | 49 | Mentioning or alluding to self-harm | Verbal Warning | Short Timeout | Standard Timeout | Medium Timeout | Extended Timeout | Severe Timeout | Ban |

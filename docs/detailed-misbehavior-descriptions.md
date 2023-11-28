@@ -9,10 +9,8 @@
 | 3 | General misuse of channels | Any messages that divert from the intended topic of a channel, such as regular discussion in #ask-a-coach or #introductions. |
 | 4 | Baiting other community members | Creating unnecessary drama, manipulation of others, or being overly judgmental or critical of others, especially when done to generate a reaction from someone. Includes attacks or insults through in-game chat. |
 | 5 | Falsely/incorrectly reporting scores | Intentionally lying in a score report to either misrepresent the correct score or reporting the wrong winner will be warned under this rule. |
-| 6 | Pinging roles between 3am-10am EST | Self explanatory. |
-| 7 | Unnecessary pings | Pinging small roles for no apparent reason. This can also apply to pinging individuals if they complain. |
+| 7 | Excessive or Unnecessary pings | Pinging  roles/individuals for no apparent reason. This can also apply to spam pinging an individual, or pinging after being asked to stop. No roles should be pinged between 3am-10a EST (other than mod/after dark roles) |
 | 8 | Non-English text in chat | Self explanatory. |
-| 9 | Excessive pinging | Spam pinging an individual. |
 | 10 | Being generally disrespectful, rude or toxic to community members | This refers to harassment of other players, including, but not limited to: verbal insults, text insults, and repeated, overt sarcastic responses in both text or voice chat. This can include DMs brought to the attention of the moderators. It is primarily up to moderator discretion whether or not to punish for this. |
 | 48 | Suggestive Media | Posting any images, gifs, text, or videos that can be considered not safe for work (NSFW) but are not explicit or graphic. This is including but not limited to innuendos, suggestive content or sexual references (graphic or implied) |
 | 49 | Mentioning or alluding to self-harm | Any instances of messages, images or gifs which mention or allude to self harm in any CSC discord channel |
