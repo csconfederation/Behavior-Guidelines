@@ -70,6 +70,13 @@
 | 10M3 | Leaving/afking a game in progress | Intentionally leaving a 10man and not returning, or going afk and not playing. This does not include for tech related issues, with intention to return |
 | 10M4 | Griefing, trolling, or ruining the game in other ways | Intentionally throwing the game, not playing to the objective, or ruining the experience for other players in any way (including blocking spawns, team flashing, and other disruptive behavior in game) |
 
+### Combines Specific Offenses
+
+| # | Name of Offence | Description |
+| C1 | Dodging queues/failing to join a VC | Intentionally dodging a game, or accidentally missing multiple times. This includes failing to join the team VC. |
+| C2 | AFKing/intentionally leaving an active game | Going AFK mid game or intetionally leaving an active game of combines. |
+| C3 | Griefing games | Throwing, not trying or ruining the integrity of a game in any fashion. If discovered after combines, up to a ban may be applied. Any discovered MMR manipualtion attempts will result in an immediate combine ban. |
+
 ### Staff Specific Offenses(Staff, GM, Committee Head)
 
 | # | Name of Offence | Description |
