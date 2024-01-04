@@ -73,6 +73,7 @@
 ### Combines Specific Offenses
 
 | # | Name of Offence | Step 1 | Step 2 | Step 3 |
+| - | --------------- | ----------- |
 | C1 | Dodging queues/failing to join a VC | Warning | 1 day Combine Ban + Rule 10 | Combine Ban + Rule 14 |
 | C2 | AFKing/intentionally leaving an active game | Warning | 1 day Combine Ban + Rule 10 | Combine Ban + Rule 14 |
 | C3 | Griefing games | 1 day Combine Ban + Rule 14 | Combine Ban + Rule 14
