@@ -25,7 +25,6 @@
  - Anyone who reached Ban status will be placed on Enforced Break while mod committee determines if they actually deserve a ban.
  - Anyone who reaches Ban status and is actively causing problems while on Enforced Break will be banned, then have their situation discussed.
  - After receiving a ban strike, the player will have 72 hours to request an appeal before being removed from the server.  If no appeal is requested after the 72 hours, the player can not request one until they have served the minimum banned time set up by arbiters.
- - After receiving a ban strike, the player will have 72 hours to request an appeal before being removed from the server.  If no appeal is requested after the 72 hours, the player can not request one until they have served the minimum banned time set up by arbiters.
  - Any misbehavior that covers multiple categories will count as a strike for each one, and the punishments combined as described above.
  - For the purposes of moderating, a season ends on the last event day, and the next season begins the day after.
  - Punishment steps are by tier. You will receive whatever the punishment is for the step you are at, regardless of which rule is broken. This means you can bounce between different punishment durations.
