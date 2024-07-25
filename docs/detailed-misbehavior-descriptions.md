@@ -65,6 +65,16 @@
 | 45 | Scamming or attempted scamming | Self explanatory. |
 | 47 | Messaging automoderated terms | Messaging a banned word that is automatically deleted by automod. Resending deleted messages will result in a double strike. Any successful attempt to avoid automod with banned words will be treated as a 37. |
 
+### Staff Specific Offenses
+
+| # | Name of Offence | Description |
+| - | --------------- | ----------- |
+| S1 | Misuse of position | Accidentally overstepping conventions/rules for little gain. |
+| S2 | Allowing a toxic environment | Hosting an unfriendly environment and not taking control of inappropriate behavior that would warrant strikes in public CSC channels. |
+| S3 | Failure to address player concerns | Choosing not to take action on player concerns or reports within a franchise. |
+| S4 | Leaking privileged information | Leaking priveleged information from privileged roles to anyone that does not currently have access. (This can apply to non-staff players if involved) |
+| S5 | Abuse of position | Deliberately using role's powers to measurably benefit you, an affiliated franchise/team, etc. |
+
 ### 10s Specific Offenses
 
 | # | Name of Offence | Description |
@@ -81,13 +91,3 @@
 | C1 | Dodging queues/failing to join a VC | Intentionally dodging a game, or accidentally missing multiple times. This includes failing to join the team VC. |
 | C2 | AFKing/intentionally leaving an active game | Going AFK mid game or intetionally leaving an active game of combines. |
 | C3 | Griefing games | Throwing, not trying or ruining the integrity of a game in any fashion. If discovered after combines, up to a ban may be applied. Any discovered MMR manipualtion attempts will result in an immediate combine ban. |
-
-### Staff Specific Offenses
-
-| # | Name of Offence | Description |
-| - | --------------- | ----------- |
-| S1 | Misuse of position | Accidentally overstepping conventions/rules for little gain. |
-| S2 | Allowing a toxic environment | Hosting an unfriendly environment and not taking control of inappropriate behavior that would warrant strikes in public CSC channels. |
-| S3 | Failure to address player concerns | Choosing not to take action on player concerns or reports within a franchise. |
-| S4 | Leaking privileged information | Leaking priveleged information from privileged roles to anyone that does not currently have access. (This can apply to non-staff players if involved) |
-| S5 | Abuse of position | Deliberately using role's powers to measurably benefit you, an affiliated franchise/team, etc. |
