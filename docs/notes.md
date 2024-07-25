@@ -33,11 +33,8 @@
 
 # GM/Staff Notes
 
- - GM's and Staff will serve punishments for a longer duration than normal members. As pillars of the community, better behavior is expected of them.
+ - CSC Staff (Committee members and GMs/AGMs) will be held to a higher standard than norm,al members. As pillars of the community, better behavior is expected of them.
  - These steps are general. Any staff member can lose their role for any rule broken if extreme enough, with a unanimous vote from Admins.
- - Staff Specific Offenses with two steps expire at a rate of one every nine months.
- - Increased punishment duration steps expire at a rate of one per six months.
- - Duration of staff removal, if that step is reached, will be determined by Admins.
 
 # New Player Period
 
@@ -50,4 +47,5 @@
  - Minor Strikes will expire after four months, up to two per four month period.
  - Normal Strikes will expire after six months, up to one per six month period.
  - Majority of Serious Strikes do not expire. The following expire after a 10 month period: 25 & 28. The following expire after a 20 month period: 29 & 30. Up to 1 per period.
+ - Staff normal strikes are forgiven once every 8 months. Staff serious strikes do not expire.
  - Any expiration periods may be increased if strikes are consistently received for additional instances of breaking the same rule.

@@ -64,6 +64,10 @@
 | 44 | Trolling with ill intent immediately after joining | Joining the server just to incite drama, protest a punishment for a friend, etc. |
 | 45 | Scamming or attempted scamming | Self explanatory. |
 | 47 | Messaging automoderated terms | Messaging a banned word that is automatically deleted by automod. Resending deleted messages will result in a double strike. Any successful attempt to avoid automod with banned words will be treated as a 37. |
+
+### 10s Specific Offenses
+
+| # | Name of Offence | Description |
 | - | --------------- | ----------- |
 | 10M1 | Dodging a game | Intentionally dodging a game after ready check has popped. Multiple instances of accidental dodges will also lead to a strike. |
 | 10M2 | General toxicity | Intentional rude behavior, including but not limited to insults, disrupting communications, and chat spams. |
@@ -78,19 +82,12 @@
 | C2 | AFKing/intentionally leaving an active game | Going AFK mid game or intetionally leaving an active game of combines. |
 | C3 | Griefing games | Throwing, not trying or ruining the integrity of a game in any fashion. If discovered after combines, up to a ban may be applied. Any discovered MMR manipualtion attempts will result in an immediate combine ban. |
 
-### Staff Specific Offenses(Staff, GM, Committee Head)
+### Staff Specific Offenses
 
 | # | Name of Offence | Description |
 | - | --------------- | ----------- |
-| GM1 | Toxic team discord environment | Hosting an unfriendly environment and not taking control of inappropriate behavior that would warrant strikes in the main CSC discord server. |
-| GM2 | Abusing player trust | Taking actions that take advantage of the trust that players place in GMs, purposefully making use of that trust in a way that is against player desires or expectations. |
-| GM3 | Failure to address player concerns | Choosing not to take action on player concerns or reports within a franchise. |
-| GM4 | Misuse of position | Taking actions that are not in good faith and in line with the GM position they were entrusted with. An example would include drafting a team of only your friends without any intention of being competitive. |
-| GM5 | Abuse of position | Taking actions that result in misleading or confusing players intentionally. An example would include telling an opposing player that a match has been rescheduled when it has not. |
-| GM6 | Extended, unexplained inactivity with no backup plan | A GM going dark with no explanation, without informing anyone, or having any backup plan in case this were to occur. |
-| S1 | Misuse of position | Taking actions that are not in good faith and in line with the position they were entrusted with. An example would be using the Events role to ping players to play in a tournament not affiliated with CSC. |
-| S2 | Abuse of position | Taking actions that fall completely out of line of player trust. An example would be taking payment or something similar in exchange of a player being featured more often on Reddit, in media, or having a better position in a tournament. |
-| S3 | Leaking privileged information | Leaking priveleged information to anyone that did not previously have access. This can apply to non-staff players if involved. |
-| CH1 | Misuse of position | Taking actions that are not in good faith and in line with the position they were entrusted with. An example would include adding people without clear motivation or skills into their committee. |
-| CH2 | Abuse of position | Complete neglect of player and committee member trust by adding members who distract from the goals of the committee, adding only friends, or removing members from committees due to personal conflicts. |
-| CH3 | Committee Neglect | Failure to maintain or upkeep your committee, extended periods of activity with no explanation or backup plan for the members on standby. |
+| S1 | Misuse of position | Accidentally overstepping conventions/rules for little gain. |
+| S2 | Allowing a toxic environment | Hosting an unfriendly environment and not taking control of inappropriate behavior that would warrant strikes in public CSC channels. |
+| S3 | Failure to address player concerns | Choosing not to take action on player concerns or reports within a franchise. |
+| S4 | Leaking privileged information | Leaking priveleged information from privileged roles to anyone that does not currently have access. (This can apply to non-staff players if involved) |
+| S5 | Abuse of position | Deliberately using role's powers to measurably benefit you, an affiliated franchise/team, etc. |

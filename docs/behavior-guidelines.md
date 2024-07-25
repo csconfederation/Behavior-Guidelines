@@ -64,7 +64,22 @@
 | 44 | Trolling with ill intent immediately after joining | Immediate Ban |
 | 45 | Scamming or attempted scamming | Immediate Ban |
 | 47 | Messaging automoderated terms | Verbal | Long Timeout | Season Mute | Ban |
-| All 10 mans punishments apply to 10 Mans hub, with the possibility of strikes on top |
+
+### Staff Specific Offenses
+
+| # | Name of Offence | Step 1 | Step 2 |
+| - | --------------- | ------ | ------ |
+| Normal Offenses |
+| S1 | Misuse of position | Verbal Warning | Removal |
+| S2 | Toxic team discord environment | Verbal Warning | Removal |
+| S3 | Failure to address player concerns | Verbal Warning | Removal |
+| Serious Offenses |
+| S4 | Leaking | Up to a ban |
+| S5 | Abuse of position | Removal |
+
+
+### 10s Specific Offenses
+
 | 10M1 | Dodging a game | Warning | 3 Day | 7 Days + Rule 14 | Hub ban + 14 |
 | 10M2 | General toxicity | 3 Days + Rule 10 | 7 Days + Rules 14 | Ban + Rule 14 |
 | 10M3 | Leaving/afking a game in progress |  3 Days | 7 Days + Rule 14 | Hub Ban + Rule 14 |
@@ -77,20 +92,3 @@
 | C1 | Dodging queues/failing to join a VC | Warning | 1 day Combine Ban + Rule 10 | Combine Ban + Rule 14 |
 | C2 | AFKing/intentionally leaving an active game | Warning | 1 day Combine Ban + Rule 10 | Combine Ban + Rule 14 |
 | C3 | Griefing games | 1 day Combine Ban + Rule 14 | Combine Ban + Rule 14 |
-
-### Staff Specific Offenses (Staff, GM, Committee Head)
-
-| # | Name of Offence | Step 1 | Step 2 | Step 3 |
-| - | --------------- | ------ | ------ | ------ |
-| GM1 | Toxic team discord environment | Verbal Warning | Suspension | Removal |
-| GM2 | Abusing player trust | Verbal Warning | Removal |
-| GM3 | Failure to address player concerns | Verbal Warning | Removal |
-| GM4 | Misuse of position | Removal |
-| GM5 | Abuse of position | Removal |
-| GM6 | Extended, unexplained inactivity with no backup plan | Removal |
-| S1 | Misuse of position | Verbal Warning | Removal |
-| S2 | Abuse of position | Removal |
-| S3 | Leaking privileged information | up to a Ban |
-| CH1 | Misuse of position | Verbal Warning | Removal |
-| CH2 | Abuse of position | Removal |
-| CH3 | Committee Neglect | Removal |
