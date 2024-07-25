@@ -33,7 +33,7 @@
 
 # GM/Staff Notes
 
- - CSC Staff (Committee members and GMs/AGMs) will be held to a higher standard than norm,al members. As pillars of the community, better behavior is expected of them.
+ - CSC Staff (Committee members and GMs/AGMs) will be held to a higher standard than normal members. As pillars of the community, better behavior is expected of them.
  - These steps are general. Any staff member can lose their role for any rule broken if extreme enough, with a unanimous vote from Admins.
 
 # New Player Period
