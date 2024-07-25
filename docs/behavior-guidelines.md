@@ -80,6 +80,8 @@
 
 ### 10s Specific Offenses
 
+| # | Name of Offence | Step 1 | Step 2 | Step 3 | Step 4 |
+| - | --------------- | ------ | ------ | ------ | ------ |
 | 10M1 | Dodging a game | Warning | 3 Day | 7 Days + Rule 14 | Hub ban + 14 |
 | 10M2 | General toxicity | 3 Days + Rule 10 | 7 Days + Rules 14 | Ban + Rule 14 |
 | 10M3 | Leaving/afking a game in progress |  3 Days | 7 Days + Rule 14 | Hub Ban + Rule 14 |
