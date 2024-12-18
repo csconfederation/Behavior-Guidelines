@@ -1,3 +1,15 @@
+# CSC VALUES
+
+- CSC strives to be a safe and welcoming community and league for players of all kinds to enjoy competitive Counter-Strike.
+
+- Our players are the heart of the league - while competition may be heated at times, there is a wide line between friendly rivalry and targeted attacks.
+
+- We will not tolerate bigotry in any way, shape, or form.
+
+- No matter if directed at another player, team, franchise, or even yourself, we do not allow slurs, racist/ableist/sexist/homophobic/transphobic remarks, intentional misgendering or other hateful speech. 
+
+- We hold ourselves to a standard of respect and inclusivity. By participating in CSC, you agree to uphold these community values and contribute to a positive experience for everyone.
+
 # Mod Jurisdiction
 
  - Mod jurisdiction includes CSC and CSC related servers including any actions made within a CSC Server or within a CSC Related activity (Team Pugs, scrims, and other events). GMs are still responsible for the moderation of their franchise discord, but mods will act for strikes when called upon.
