@@ -47,7 +47,7 @@
 | 30 | Timing misbehaviors to minimize punishments | Extended Timeout | Ban |
 | 32 | Collaborating in Committing Normal or Serious Misbehaviors | Severe Timeout | Ban |
 | 37 | Slurs, racism, and bigoted speech | Severe Timeout or more | Ban |
-| 38 | Serious (death/assault) threats | Severe Timeout or more | Ban |
+| 38 | Serious (death/assault/sexual assault) threats | Severe Timeout or more | Ban |
 
 ### Other Offenses
 
