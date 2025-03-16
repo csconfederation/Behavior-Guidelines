@@ -78,7 +78,7 @@
 | S5 | Abuse of position | Removal |
 
 
-### 10s Specific Offenses
+### CSC Hub Specific Offenses
 
 | # | Name of Offence | Step 1 | Step 2 | Step 3 | Step 4 |
 | - | --------------- | ------ | ------ | ------ | ------ |
