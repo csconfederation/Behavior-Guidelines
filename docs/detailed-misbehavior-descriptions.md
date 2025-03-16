@@ -75,7 +75,7 @@
 | S4 | Leaking privileged information | Leaking priveleged information from privileged roles to anyone that does not currently have access. (This can apply to non-staff players if involved) |
 | S5 | Abuse of position | Deliberately using role's powers to measurably benefit you, an affiliated franchise/team, etc. |
 
-### 10s Specific Offenses
+### CSC Hub Specific Offenses
 
 | # | Name of Offence | Description |
 | - | --------------- | ----------- |
