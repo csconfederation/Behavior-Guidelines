@@ -24,9 +24,9 @@
 | 13 | Collaborating in Committing Minor Misbehaviors | Standard Timeout | Long Timeout | Extended Timeout | Severe Timeout | Ban |
 | 14 | General conduct detrimental to CSC | Standard Timeout | Standard Timeout | Long Timeout | Extended Timeout | Severe Timeout | Ban |
 | 15 | Asking for specific punishments for others | Standard Timeout | Long Timeout | Extended Timeout | Severe Timeout | Ban |
-| 16 | NSFW media | Standard Timeout | Long Timeout | Extended Timeout | Severe Timeout | Ban | 
-| 17 | Swearing directed at another member | Standard Timeout | Long Timeout | Extended Timeout | Severe Timeout | Ban | 
-| 18 | False accusations of serious offence | Standard Timeout | Long Timeout | Extended Timeout | Severe Timeout | Ban | 
+| 16 | NSFW media | Standard Timeout | Long Timeout | Extended Timeout | Severe Timeout | Ban |
+| 17 | Swearing directed at another member | Standard Timeout | Long Timeout | Extended Timeout | Severe Timeout | Ban |
+| 18 | False accusations of serious offence | Standard Timeout | Long Timeout | Extended Timeout | Severe Timeout | Ban |
 | 19 | Public accusation of staff abuse | Standard Timeout | Long Timeout | Extended Timeout | Severe Timeout | Ban |
 | 20 | Encouraging drama or rule breaking, or promising to do so | Standard Timeout | Long Timeout | Extended Timeout | Severe Timeout | Ban |
 | 21 | Testing, taunting, or baiting mods | Medium Timeout | Extended Timeout | Severe Timeout | Season Timeout | Ban |
@@ -53,17 +53,17 @@
 
 | # | Name of Offence | Step 1 | Step 2 | Step 3 | Step 4 |
 | - | --------------- | ------ | ------ | ------ | ------ |
-| 34 | Bypassing, or attempting to bypass, punishments in bad faith | Triple the length of original punishment	|
+| 34 | Bypassing, or attempting to bypass, punishments in bad faith | Triple the length of original punishment |
 | 35 | Non-serious discussion in serious channels | Warning | Season Channel Ban | Channel Ban |
 | 36 | Leaving Discord mid-event | Removed from Event | CSC Event Ban |
 | 39 | Leaving Discord mid-season without reason | Season Timeout | Ban |
 | 40 | Pinging large roles without approval |  Removal of Role |
 | 41 | Posting scam links | Ban |
 | 42 | Breaking Discord TOS | Ban |
-| 43 | Cheating | Immediate Ban |
 | 44 | Trolling with ill intent immediately after joining | Immediate Ban |
 | 45 | Scamming or attempted scamming | Immediate Ban |
 | 47 | Messaging automoderated terms | Verbal | Long Timeout | Season Mute | Ban |
+| 51 | Doxxing | Ban |
 
 ### Staff Specific Offenses
 
@@ -76,7 +76,6 @@
 | Serious Offenses |
 | S4 | Leaking | Up to a ban |
 | S5 | Abuse of position | Removal |
-
 
 ### CSC Hub Specific Offenses
 
@@ -94,3 +93,12 @@
 | C1 | Dodging queues/failing to join a VC | Warning | 1 day Combine Ban + Rule 10 | Combine Ban + Rule 14 |
 | C2 | AFKing/intentionally leaving an active game | Warning | 1 day Combine Ban + Rule 10 | Combine Ban + Rule 14 |
 | C3 | Griefing games | 1 day Combine Ban + Rule 14 | Combine Ban + Rule 14 |
+
+### Match Integrity
+
+| # | Name of Offence | Step 1 | Step 2 | Step 3 | Step 4 |
+| - | --------------- | ------ | ------ | ------ | ------ |
+| MIC1 | Cheating | Ban |
+| MIC2 | Throwing/Trolling | Season Removal | Ban |
+| MIC3 | Smurfing | Season Removal | Ban |
+| MIC4 | Unserious Play | Warning | 2 Map Ban | Season Removal | Ban |

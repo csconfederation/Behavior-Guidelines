@@ -59,11 +59,11 @@
 | 39 | Leaving Discord mid-season without reason | These will be reviewed on a case by case basis, and the punishment can extend into the following season(s). |
 | 40 | Pinging large roles without approval | Pinging @everyone, @League, @Spectator, @Former Player, etc. without approval |
 | 41 | Posting scam links | Posting malicious links with the intent of stealing IPs, account information, or anything else of ill intent. |
-| 42 | Breaking Discord TOS | Actions that go against Discord's TOS, found at https://discord.com/terms |
-| 43 | Cheating | Any use of programs or macros that give an unfair advantage to the user. |
+| 42 | Breaking Discord TOS | Actions that go against Discord's TOS, found at <https://discord.com/terms> |
 | 44 | Trolling with ill intent immediately after joining | Joining the server just to incite drama, protest a punishment for a friend, etc. |
 | 45 | Scamming or attempted scamming | Self explanatory. |
 | 47 | Messaging automoderated terms | Messaging a banned word that is automatically deleted by automod. Resending deleted messages will result in a double strike. Any successful attempt to avoid automod with banned words will be treated as a 37. |
+| 51 | Doxxing | The sharing of any previously publicly unknown personal information without their consent that could reasonably be used to identify or harass the individual. This includes but is not limited to full names, aliases, surnames, dead names, images, age, and addresses. For the purpose of this strike, information shared by the individual in a reasonably public channel within CSC (ie chats in General Channels, League Channels, Tier Channels, and Off topic channels) or directly related social media accounts (ie accounts linked to your discord account or sharing the same username as your discord name or CSC name) is considered publicly known personal information. This does not include DMs or 3rd party discords.|
 
 ### Staff Specific Offenses
 
@@ -91,3 +91,12 @@
 | C1 | Dodging queues/failing to join a VC | Intentionally dodging a game, or accidentally missing multiple times. This includes failing to join the team VC. |
 | C2 | AFKing/intentionally leaving an active game | Going AFK mid game or intetionally leaving an active game of combines. |
 | C3 | Griefing games | Throwing, not trying or ruining the integrity of a game in any fashion. If discovered after combines, up to a ban may be applied. Any discovered MMR manipualtion attempts will result in an immediate combine ban. |
+
+### Match Integrity
+
+| # | Name of Offence | Description |
+| - | --------------- | ----------- |
+| MIC1 | Cheating | Any use of outside programs to alter the game for the purpose of gaining a competitive advantage qualifies as cheating. Cheating in CSC is a permanent ban. Additionally, any evidence of cheating outside of CSC will result in a ban, unless it is more than 3 years old. |
+| MIC2 | Throwing/Trolling | Trolling and throwing in order to have a reduce MMR. This may include things like not taking easily obtainable kills, charging headlong without care for ones own performance, etc. |
+| MIC3 | Smurfing | Intentionally attempting to hide actual skill by non-disclosure of accounts and some combination of throwing/trolling or other types of unserious play |
+| MIC4 | Unserious Play | Players intentionally playing in unserious ways using unorthodox strategies during combines. While these players can still potentially do fine or even good during combines, their actual skill level can be hidden by doing things like only using the xm/scout/deag, resulting in numbers having an even more difficult time placing them accurately. |
