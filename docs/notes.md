@@ -16,6 +16,10 @@
 
 - Mod jurisdiction will be in effect for all strikes with the exception of serious strikes. Serious strike guidelines will be enforced if reported, should the infraction occur between members outside of CSC sanctioned area. Serious external rule breaks must be reported within a reasonable timeframe per mod discretion. Punishments for external serious strikes will be halved, but will still count as a strike towards your total. Admins reserve the right to punish players and staff further for serious rule breaks, should it be warranted.
 
+# Discretionary Removal
+
+- In the event that the mods or admins feel a player needs to be removed, a removal process can be initiated. Exact reasons for removal are subject to the discretion of mods and admins, but examples include repeated patterns of misbehavior, going against core values, etc. A discussion will be had involving all mods, admins and the head arbiter. A substantial amount of tangible evidence is required before voting on a removal. In order for the vote to pass, 80% or more of the mods, admins, and head arbiter must vote for removal.  Should the vote pass, the defendant may open an appeal with the remaining arbiters before being banned. Ban appeals will become available after the standard 6 month period.
+
 # DISCLAIMERS
 
 - **ANY PUNISHMENT DURATION OUTSIDE OF OUTLINED DURATIONS MAY BE APPLIED AT ANY TIME BASED ON THE SITUATION**
