@@ -54,7 +54,7 @@
 | # | Name of Offence | Step 1 | Step 2 | Step 3 | Step 4 |
 | - | --------------- | ------ | ------ | ------ | ------ |
 | 34 | Bypassing, or attempting to bypass, punishments in bad faith | Triple the length of original punishment |
-| 35 | Non-serious discussion in serious channels | Warning | Season Channel Ban | Channel Ban |
+| 35 | Non-serious discussion in serious channels | Verbal Warning | Season Channel Ban | Channel Ban |
 | 36 | Leaving Discord mid-event | Removed from Event | CSC Event Ban |
 | 40 | Pinging large roles without approval |  Removal of Role |
 | 41 | Posting scam links | Ban |
@@ -80,7 +80,7 @@
 
 | # | Name of Offence | Step 1 | Step 2 | Step 3 | Step 4 |
 | - | --------------- | ------ | ------ | ------ | ------ |
-| 10M1 | Dodging a game | Warning | 3 Day | 7 Days + Rule 14 | Hub ban + 14 |
+| 10M1 | Dodging a game | Verbal Warning | 3 Day | 7 Days + Rule 14 | Hub ban + 14 |
 | 10M2 | General toxicity | 3 Days + Rule 10 | 7 Days + Rules 14 | Ban + Rule 14 |
 | 10M3 | Leaving/afking a game in progress |  3 Days | 7 Days + Rule 14 | Hub Ban + Rule 14 |
 | 10M4 | Griefing, trolling, or ruining the game in other ways | 7 Days + Rule 14 | 14 Day + Rule 14 | Ban + Rule 14 |
@@ -89,8 +89,8 @@
 
 | # | Name of Offence | Step 1 | Step 2 | Step 3 |
 | - | --------------- | ------ | ------ | ------ |
-| C1 | Dodging queues/failing to join a VC | Warning | 1 day Combine Ban + Rule 10 | Combine Ban + Rule 14 |
-| C2 | AFKing/intentionally leaving an active game | Warning | 1 day Combine Ban + Rule 10 | Combine Ban + Rule 14 |
+| C1 | Dodging queues/failing to join a VC | Verbal Warning | 1 day Combine Ban + Rule 10 | Combine Ban + Rule 14 |
+| C2 | AFKing/intentionally leaving an active game | Verbal Warning | 1 day Combine Ban + Rule 10 | Combine Ban + Rule 14 |
 | C3 | Griefing games | 1 day Combine Ban + Rule 14 | Combine Ban + Rule 14 |
 
 ### Match Integrity
@@ -100,4 +100,4 @@
 | MIC1 | Cheating | Ban |
 | MIC2 | Throwing/Trolling | Season Removal | Ban |
 | MIC3 | Smurfing | Season Removal | Ban |
-| MIC4 | Unserious Play | Warning | 2 Map Ban | Season Removal | Ban |
+| MIC4 | Unserious Play | Verbal Warning | 2 Map Ban | Season Removal | Ban |
