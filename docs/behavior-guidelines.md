@@ -56,7 +56,6 @@
 | 34 | Bypassing, or attempting to bypass, punishments in bad faith | Triple the length of original punishment |
 | 35 | Non-serious discussion in serious channels | Warning | Season Channel Ban | Channel Ban |
 | 36 | Leaving Discord mid-event | Removed from Event | CSC Event Ban |
-| 39 | Leaving Discord mid-season without reason | Season Timeout | Ban |
 | 40 | Pinging large roles without approval |  Removal of Role |
 | 41 | Posting scam links | Ban |
 | 42 | Breaking Discord TOS | Ban |

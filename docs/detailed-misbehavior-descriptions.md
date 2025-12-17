@@ -56,7 +56,6 @@
 | 34 | Bypassing, or attempting to bypass, punishments in bad faith | Any attempts to subvert existing punishments, or to prevent infractions being reported and punished. Includes the use of alternate accounts, or deleting offensive content in an attempt to hide it from mods. |
 | 35 | Non-serious discussion in serious channels | Any completely off-topic conversation or statements in serious-suggestion/discussion, election channels, or other serious channels. |
 | 36 | Leaving Discord mid-event | Leaving a voice channel, the CSC discord, or discord server created for an event while participating in that event. |
-| 39 | Leaving Discord mid-season without reason | These will be reviewed on a case by case basis, and the punishment can extend into the following season(s). |
 | 40 | Pinging large roles without approval | Pinging @everyone, @League, @Spectator, @Former Player, etc. without approval |
 | 41 | Posting scam links | Posting malicious links with the intent of stealing IPs, account information, or anything else of ill intent. |
 | 42 | Breaking Discord TOS | Actions that go against Discord's TOS, found at <https://discord.com/terms> |
