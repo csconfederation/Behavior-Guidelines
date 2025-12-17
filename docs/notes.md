@@ -20,10 +20,13 @@
 
 - In the event that the mods or admins feel a player needs to be removed, a removal process can be initiated. Exact reasons for removal are subject to the discretion of mods and admins, but examples include repeated patterns of misbehavior, going against core values, etc. A discussion will be had involving all mods, admins and the head arbiter. A substantial amount of tangible evidence is required before voting on a removal. In order for the vote to pass, 80% or more of the mods, admins, and head arbiter must vote for removal.  Should the vote pass, the defendant may open an appeal with the remaining arbiters before being banned. Ban appeals will become available after the standard 6 month period.
 
+# Mute Rules
+
+- You may not participate in CSC while muted. This includes CSC matches, community/franchise events, and typing in discord or streams
+
 # DISCLAIMERS
 
 - **ANY PUNISHMENT DURATION OUTSIDE OF OUTLINED DURATIONS MAY BE APPLIED AT ANY TIME BASED ON THE SITUATION**
-- **YOU MAY NOT PARTICIPATE IN CSC RELATED EVENTS WHILE SERVING A MUTE**
 - **MODS ARE FREE TO ADD, REMOVE, OR CHANGE PUNISHMENTS OR THEIR DESCRIPTIONS AT ANY TIME**
 - **EGREGIOUS BREAKING OF A RULE MAY WARRANT MORE EXTREME PUNISHMENTS, EVEN IF THE OFFENDER HAS NOT YET PROGRESSED TO THAT STEP**
 - **ANYONE MAY APPEAL THEIR STRIKES TO ARBITERS, WHO WILL REVIEW THE CASE AND DETERMINE IF THE PUNISHMENT WAS JUSTIFIED, SHOULD BE CHANGED, OR SHOULD BE REMOVED**
