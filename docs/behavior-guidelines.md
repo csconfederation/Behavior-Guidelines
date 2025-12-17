@@ -4,16 +4,16 @@
 
 | # | Name of Offence | Step 1 | Step 2 | Step 3 | Step 4 | Step 5 | Step 6 | Step 7 |
 | - | --------------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| 1 | Excessively spamming text chat with text or reactions | Verbal Warning | Short Timeout | Standard Timeout | Medium Timeout | Extended Timeout | Severe Timeout | Ban |
-| 2 | Spamming voice chat/spam joining voice | Verbal Warning | Short Timeout | Standard Timeout | Medium Timeout | Extended Timeout | Severe Timeout | Ban |
-| 3 | General misuse of channels | Verbal Warning | Short Timeout | Standard Timeout | Medium Timeout | Extended Timeout | Severe Timeout | Ban |
-| 4 | Baiting other community members | Verbal Warning | Short Timeout | Standard Timeout | Medium Timeout | Extended Timeout | Severe Timeout | Ban |
-| 5 | Falsely/incorrectly reporting scores | Verbal Warning | Short Timeout | Standard Timeout | Medium Timeout | Extended Timeout | Severe Timeout | Ban |
-| 7 | Excessive or Unnecessary pings | Verbal Warning | Short Timeout | Standard Timeout | Medium Timeout | Extended Timeout | Severe Timeout | Ban |
-| 8 | Non-English text in chat | Verbal Warning | Short Timeout | Standard Timeout | Medium Timeout | Extended Timeout | Severe Timeout | Ban |
-| 10 | Being generally disrespectful, rude or toxic to community members | Verbal Warning | Short Timeout | Standard Timeout | Medium Timeout | Extended Timeout | Severe Timeout | Ban |
-| 48 | Suggestive Media | Verbal Warning | Short Timeout | Standard Timeout | Medium Timeout | Extended Timeout | Severe Timeout | Ban |
-| 49 | Mentioning or alluding to self-harm | Verbal Warning | Short Timeout | Standard Timeout | Medium Timeout | Extended Timeout | Severe Timeout | Ban |
+| 1 | Excessively spamming text chat with text or reactions | Verbal Warning | Short Timeout | Standard Timeout | Medium Timeout | Long Timeout | Extended Timeout | Ban |
+| 2 | Spamming voice chat/spam joining voice | Verbal Warning | Short Timeout | Standard Timeout | Medium Timeout | Long Timeout | Extended Timeout | Ban |
+| 3 | General misuse of channels | Verbal Warning | Short Timeout | Standard Timeout | Medium Timeout | Long Timeout | Extended Timeout | Ban |
+| 4 | Baiting other community members | Verbal Warning | Short Timeout | Standard Timeout | Medium Timeout | Long Timeout | Extended Timeout | Ban |
+| 5 | Falsely/incorrectly reporting scores | Verbal Warning | Short Timeout | Standard Timeout | Medium Timeout | Long Timeout | Extended Timeout | Ban |
+| 7 | Excessive or Unnecessary pings | Verbal Warning | Short Timeout | Standard Timeout | Medium Timeout | Long Timeout | Extended Timeout | Ban |
+| 8 | Non-English text in chat | Verbal Warning | Short Timeout | Standard Timeout | Medium Timeout | Long Timeout | Extended Timeout | Ban |
+| 10 | Being generally disrespectful, rude or toxic to community members | Verbal Warning | Short Timeout | Standard Timeout | Medium Timeout | Long Timeout | Extended Timeout | Ban |
+| 48 | Suggestive Media | Verbal Warning | Short Timeout | Standard Timeout | Medium Timeout | Long Timeout | Extended Timeout | Ban |
+| 49 | Mentioning or alluding to self-harm | Verbal Warning | Short Timeout | Standard Timeout | Medium Timeout | Long Timeout | Extended Timeout | Ban |
 
 ### Normal Offenses
 
