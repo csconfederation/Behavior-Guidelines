@@ -15,7 +15,7 @@
 | Season Mute | Muted until the ongoing season officially ends (or 75% of the way through the following season, rounded down, if within 14 days of playoffs or closer) + 3 map suspension |
 | Removed From Event | Removed from the relevant event and the next instance of it |
 | CSC Event Ban | Indefinite ban from all events |
-| Match Suspension | A player cannot play in the next match day's full set of matches.  |
+| Match Suspension | A player cannot play in the next match day's full set of matches. |
 | Removal | Removal of applicable elevated staff roles. Requires Admin and/or Mod discussion. If not removed, moving to the next step will result in immediate removal |
 | Ban | Indefinite ban from all CSC platforms. Must be discussed. Player put on Forced Break while their case is reviewed and discussed. |
 | Immediate Ban | Immediate ban from all CSC platforms. Only used in very extreme cases. No discussion. |

@@ -1,19 +1,24 @@
-site_name: CSC behavior guidelines
-site_url: https://rulebook.playcsc.com
+site_name: CSC Behavior Guidelines
+site_url: https://behavior.playcsc.com
+strict: true
+
 theme:
   name: material
   palette:
     - media: "(prefers-color-scheme: light)"
-      scheme: default 
-
+      scheme: default
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
+
 extra_javascript:
   - javascripts/extra.js
+
 extra_css:
   - stylesheets/extra.css
+
 nav:
-    - Punishment Legend: punishment-legend.md
-    - Behavior Guidelines: behavior-guidelines.md
-    - Detailed Misbehavior Descriptions: detailed-misbehavior-descriptions.md
-    - Notes: notes.md
+  - Home: index.md
+  - Punishment Legend: punishment-legend.md
+  - Behavior Guidelines: behavior-guidelines.md
+  - Detailed Misbehavior Descriptions: detailed-misbehavior-descriptions.md
+  - Notes: notes.md
