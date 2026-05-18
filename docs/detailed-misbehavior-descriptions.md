@@ -1,11 +1,11 @@
 # Detailed Misbehavior Descriptions
 
-### Minor Offenses
+## Minor Offenses
 
 | # | Name of Offence | Description |
 | ------- | --------- | ---------- |
 | 1 | Excessively spamming text chat with text or reactions | Any instance of posting the same message, image, or gif either a. multiple times in one channel, b. once in multiple channels, or c. in multiple different CSC discords will be considered spam. This also applies to in-game chats. Reacting to many messages, in one channel or multiple channels, with the same or different reactions, can also lead to a mute. |
-| 2 | Spamming voice chat/spam joining voice |Repeatedly joining and leaving, or rapidly moving between, a voice channel in the CSC discord will warrant a punishment for spam joining. You may also be warned under this rule for any instance of voice changers or loud sounds played in a voice channel. |
+| 2 | Spamming voice chat/spam joining voice | Repeatedly joining and leaving, or rapidly moving between, a voice channel in the CSC discord will warrant a punishment for spam joining. You may also be warned under this rule for any instance of voice changers or loud sounds played in a voice channel. |
 | 3 | General misuse of channels | Any messages that divert from the intended topic of a channel, such as regular discussion in #ask-a-coach or #introductions. |
 | 4 | Baiting other community members | Creating unnecessary drama, manipulation of others, or being overly judgmental or critical of others, especially when done to generate a reaction from someone. Includes attacks or insults through in-game chat. |
 | 5 | Falsely/incorrectly reporting scores | Intentionally lying in a score report to either misrepresent the correct score or reporting the wrong winner will be warned under this rule. |
@@ -15,7 +15,7 @@
 | 48 | Suggestive Media | Posting any images, gifs, text, or videos that can be considered not safe for work (NSFW) but are not explicit or graphic. This is including but not limited to innuendos, suggestive content or sexual references (graphic or implied) |
 | 49 | Mentioning or alluding to self-harm | Any instances of messages, images or gifs which mention or allude to self harm in any CSC discord channel |
 
-### Normal Offenses
+## Normal Offenses
 
 | # | Name of Offence | Description |
 | ------- | --------- | ---------- |
@@ -35,7 +35,7 @@
 | 24 | Harrassment | Repeated insulting of another member, even after being asked to stop. |
 | 31 | Spoiling recent shows or movies (within 2 weeks of release) | Defined as intentionally revealing information about recent media (shows, movies, etc. that have come out in the past two weeks) that can spoil the enjoyment of members who are interested in that media, but have not been able to see it yet. |
 
-### Serious Offenses
+## Serious Offenses
 
 | # | Name of Offence | Description |
 | ------- | --------- | ---------- |
@@ -49,7 +49,7 @@
 | 37 | Slurs, racism and biogted speech | Use of highly offensive language, including but not limited to slurs, racism, deliberate misgendering, attacks against someones personal identity or other hateful and bigoted speech. |
 | 38 | Serious (death/assault) threats | Any threat made that involves serious harm to another member, jokingly or not. |
 
-### Other Offenses
+## Other Offenses
 
 | # | Name of Offence | Description |
 | - | --------------- | ----------- |
@@ -62,9 +62,9 @@
 | 44 | Trolling with ill intent immediately after joining | Joining the server just to incite drama, protest a punishment for a friend, etc. |
 | 45 | Scamming or attempted scamming | Self explanatory. |
 | 47 | Messaging automoderated terms | Messaging a banned word that is automatically deleted by automod. Resending deleted messages will result in a double strike. Any successful attempt to avoid automod with banned words will be treated as a 37. |
-| 51 | Doxxing | The sharing of any previously publicly unknown personal information without their consent that could reasonably be used to identify or harass the individual. This includes but is not limited to full names, aliases, surnames, dead names, images, age, and addresses. For the purpose of this strike, information shared by the individual in a reasonably public channel within CSC (ie chats in General Channels, League Channels, Tier Channels, and Off topic channels) or directly related social media accounts (ie accounts linked to your discord account or sharing the same username as your discord name or CSC name) is considered publicly known personal information. This does not include DMs or 3rd party discords.|
+| 51 | Doxxing | The sharing of any previously publicly unknown personal information without their consent that could reasonably be used to identify or harass the individual. This includes but is not limited to full names, aliases, surnames, dead names, images, age, and addresses. For the purpose of this strike, information shared by the individual in a reasonably public channel within CSC (ie chats in General Channels, League Channels, Tier Channels, and Off topic channels) or directly related social media accounts (ie accounts linked to your discord account or sharing the same username as your discord name or CSC name) is considered publicly known personal information. This does not include DMs or 3rd party discords. |
 
-### Staff Specific Offenses
+## Staff Specific Offenses
 
 | # | Name of Offence | Description |
 | - | --------------- | ----------- |
@@ -74,7 +74,7 @@
 | S4 | Leaking privileged information | Leaking priveleged information from privileged roles to anyone that does not currently have access. (This can apply to non-staff players if involved) |
 | S5 | Abuse of position | Deliberately using role's powers to measurably benefit you, an affiliated franchise/team, etc. |
 
-### CSC Hub Specific Offenses
+## CSC Hub Specific Offenses
 
 | # | Name of Offence | Description |
 | - | --------------- | ----------- |
@@ -83,7 +83,7 @@
 | 10M3 | Leaving/afking a game in progress | Intentionally leaving a 10man and not returning, or going afk and not playing. This does not include for tech related issues, with intention to return |
 | 10M4 | Griefing, trolling, or ruining the game in other ways | Intentionally throwing the game, not playing to the objective, or ruining the experience for other players in any way (including blocking spawns, team flashing, and other disruptive behavior in game) |
 
-### Combines Specific Offenses
+## Combines Specific Offenses
 
 | # | Name of Offence | Description |
 | - | --------------- | ----------- |
@@ -91,7 +91,7 @@
 | C2 | AFKing/intentionally leaving an active game | Going AFK mid game or intetionally leaving an active game of combines. |
 | C3 | Griefing games | Throwing, not trying or ruining the integrity of a game in any fashion. If discovered after combines, up to a ban may be applied. Any discovered MMR manipualtion attempts will result in an immediate combine ban. |
 
-### Match Integrity
+## Match Integrity
 
 | # | Name of Offence | Description |
 | - | --------------- | ----------- |
