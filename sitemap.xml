@@ -1,28 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://rulebook.playcsc.com/</loc>
-         <lastmod>2026-04-22</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://behavior.playcsc.com/</loc>
+         <lastmod>2026-05-18</lastmod>
     </url>
     <url>
-         <loc>https://rulebook.playcsc.com/behavior-guidelines/</loc>
-         <lastmod>2026-04-22</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://behavior.playcsc.com/behavior-guidelines/</loc>
+         <lastmod>2026-05-18</lastmod>
     </url>
     <url>
-         <loc>https://rulebook.playcsc.com/detailed-misbehavior-descriptions/</loc>
-         <lastmod>2026-04-22</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://behavior.playcsc.com/detailed-misbehavior-descriptions/</loc>
+         <lastmod>2026-05-18</lastmod>
     </url>
     <url>
-         <loc>https://rulebook.playcsc.com/notes/</loc>
-         <lastmod>2026-04-22</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://behavior.playcsc.com/notes/</loc>
+         <lastmod>2026-05-18</lastmod>
     </url>
     <url>
-         <loc>https://rulebook.playcsc.com/punishment-legend/</loc>
-         <lastmod>2026-04-22</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://behavior.playcsc.com/punishment-legend/</loc>
+         <lastmod>2026-05-18</lastmod>
     </url>
 </urlset>
