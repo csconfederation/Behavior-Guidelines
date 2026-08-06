@@ -48,6 +48,7 @@
 | 32 | Collaborating in Committing Normal or Serious Misbehaviors | Severe Timeout | Ban |
 | 37 | Slurs, racism, and bigoted speech | Severe Timeout or more | Ban |
 | 38 | Serious (death/assault/sexual assault) threats | Severe Timeout or more | Ban |
+| 50 | Serious conduct detrimental to CSC | Severe Timeout or more | Ban |
 
 ## Other Offenses
 

@@ -48,6 +48,7 @@
 | 32 | Collaborating in Committing Normal or Serious Misbehaviors | Any confirmed efforts to work together to commit misbehaviors. Strikes in this area are applied to all applicable members involved who have been shown to actively participate in preparing for the infraction(s). |
 | 37 | Slurs, racism and biogted speech | Use of highly offensive language, including but not limited to slurs, racism, deliberate misgendering, attacks against someones personal identity or other hateful and bigoted speech. |
 | 38 | Serious (death/assault) threats | Any threat made that involves serious harm to another member, jokingly or not. |
+| 50 | Serious conduct detrimental to CSC | Serious conduct that would turn away a new user, cast CSC in a bad light, or damage CSC operations. Examples include: scamming or fraud, intentionally causing issues with servers and core outside of testing, compromising the integrity of an election, advertising in proximity to anti-CSC conduct. This is a blanket rule for moderator discretion. |
 
 ## Other Offenses
 
