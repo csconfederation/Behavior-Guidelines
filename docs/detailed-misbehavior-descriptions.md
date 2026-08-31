@@ -84,13 +84,15 @@
 | 10M3 | Leaving/afking a game in progress | Intentionally leaving a 10man and not returning, or going afk and not playing. This does not include for tech related issues, with intention to return |
 | 10M4 | Griefing, trolling, or ruining the game in other ways | Intentionally throwing the game, not playing to the objective, or ruining the experience for other players in any way (including blocking spawns, team flashing, and other disruptive behavior in game) |
 
-## Combines Specific Offenses
+## Combines and FA Colo Specific Offenses
+
+The C-series offenses apply equally to preseason Combines and in-season FA Colo. A “Combine Ban” bars a player from both modes for the stated duration unless the disciplinary decision explicitly says otherwise.
 
 | # | Name of Offence | Description |
 | - | --------------- | ----------- |
 | C1 | Dodging queues/failing to join a VC | Intentionally dodging a game, or accidentally missing multiple times. This includes failing to join the team VC. |
-| C2 | AFKing/intentionally leaving an active game | Going AFK mid game or intetionally leaving an active game of combines. |
-| C3 | Griefing games | Throwing, not trying or ruining the integrity of a game in any fashion. If discovered after combines, up to a ban may be applied. Any discovered MMR manipualtion attempts will result in an immediate combine ban. |
+| C2 | AFKing/intentionally leaving an active game | Going AFK mid game or intentionally leaving an active game of Combines or FA Colo. |
+| C3 | Griefing games | Throwing, not trying or ruining the integrity of a game in any fashion. If discovered after the match, up to a ban may be applied. Any discovered MMR manipulation attempt will result in an immediate Combine Ban. |
 
 ## Match Integrity
 
@@ -99,4 +101,4 @@
 | MIC1 | Cheating | Any use of outside programs to alter the game for the purpose of gaining a competitive advantage qualifies as cheating. Cheating in CSC is a permanent ban. Additionally, any evidence of cheating outside of CSC will result in a ban, unless it is more than 3 years old. |
 | MIC2 | Throwing/Trolling | Trolling and throwing in order to have a reduce MMR. This may include things like not taking easily obtainable kills, charging headlong without care for ones own performance, etc. |
 | MIC3 | Smurfing | Intentionally attempting to hide actual skill by non-disclosure of accounts and some combination of throwing/trolling or other types of unserious play |
-| MIC4 | Unserious Play | Players intentionally playing in unserious ways using unorthodox strategies during combines. While these players can still potentially do fine or even good during combines, their actual skill level can be hidden by doing things like only using the xm/scout/deag, resulting in numbers having an even more difficult time placing them accurately. |
+| MIC4 | Unserious Play | Players intentionally playing in unserious ways using unorthodox strategies during Combines or FA Colo. While these players can still potentially do well, their actual skill level can be hidden by doing things like only using the XM, Scout, or Deagle, resulting in Numbers having an even more difficult time placing them accurately. |

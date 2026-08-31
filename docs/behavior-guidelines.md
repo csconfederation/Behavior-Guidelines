@@ -86,7 +86,9 @@
 | 10M3 | Leaving/afking a game in progress | 3 Days | 7 Days + Rule 14 | Hub Ban + Rule 14 | |
 | 10M4 | Griefing, trolling, or ruining the game in other ways | 7 Days + Rule 14 | 14 Day + Rule 14 | Ban + Rule 14 | |
 
-## Combines Specific Offenses
+## Combines and FA Colo Specific Offenses
+
+The C-series offenses apply equally to preseason Combines and in-season FA Colo. A “Combine Ban” bars a player from both modes for the stated duration unless the disciplinary decision explicitly says otherwise.
 
 | # | Name of Offence | Step 1 | Step 2 | Step 3 |
 | - | --------------- | ------ | ------ | ------ |
